@@ -1,0 +1,33 @@
+form {
+    background-color: #fff0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+    color: #333;
+}
+
+form input, form select, form textarea {
+    border: 1px solid #ff4b5c;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #ff4b5c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #ff7a85;
+}
+
+p {
+    color: black;
+}
